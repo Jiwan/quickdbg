@@ -1,0 +1,3 @@
+[submodule "thirdparty/beaengine"]
+	path = thirdparty/beaengine
+	url = https://github.com/BeaEngine/beaengine.git
